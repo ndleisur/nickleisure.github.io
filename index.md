@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+My name is Nick Leisure, and I am currently an undergraduate student at Indiana University Bloomington pursuing dual degrees in Computer Science with a minor in Informatics and Spanish with minors in Latino Studies and General Linguistics. I plan to graduate in August 2017.

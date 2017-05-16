@@ -47,7 +47,7 @@ social: # jekyll-seo-tag > social overrides
 navigation_footer:
   Created by Nick Leisure: https://nickleisu.re
   
-avatarurl: "assets/Star.png"
+avatarurl: "http:github.comassets/Star.png"
 logo: "assets/nick.jpeg"
 
 defaults:
@@ -68,7 +68,7 @@ defaults:
 
 # Build settings
 markdown: kramdown
-theme: alembic-jekyll-theme
+theme: minima
 gems:
   - jekyll-feed
   - jekyll-seo-tag

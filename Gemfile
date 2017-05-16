@@ -26,5 +26,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "jekyll-theme-slate"
-gem "alembic-jekyll-theme"
 gem "spectral_jekyll_theme"

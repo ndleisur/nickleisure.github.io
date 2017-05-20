@@ -18,5 +18,3 @@ Outside of work and school I am passionate about education, and I find teaching 
 For fun, I like to travel and read. I have currently been to 14 countries on four continents, and I am planning to travel to my fifteenth country this summer when I visit Canada. My current travel goal is to reach all seven continents by the time I am 25.
 
 If you would like to contact me, please send an email to nick@nickleisu.re or connect with me on [LinkedIn](http://linkedin.com/in/nicholasdleisure).
-
- ![Nick Leisure](assets/nick.jpeg){:height="375px" width="375px"}

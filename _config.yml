@@ -23,6 +23,7 @@ url: "http://nickleisu.re" # the base hostname & protocol for your site, e.g. ht
 gravatar: "favicon.ico"
 
 github_username:  ndleisur
+twitter_username: realnickleisure
 
 # Build settings
 markdown: kramdown
